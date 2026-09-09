@@ -134,3 +134,15 @@ selected_cars = cars.loc[
 >**Explanation:**
 >While this line only includes the columns named  `Model`, `mpg`, `cyl`, `hp`, `gear` <br>
 Then all of the data is stored in the DataFrame named ***selected_cars***
+
+### Output
+```text
+          Model   mpg  cyl   hp  gear
+0    Datsun 710  22.8    4   93     4
+1   Lotus Europa 30.4    4  113     5
+2   Ferrari Dino 19.7    6  175     5
+```
+>**Explanation:**
+>After the code is ran, it will have an output of exactly three rows and five columns.
+
+
